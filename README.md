@@ -10,8 +10,8 @@
 
 ## 🎯 **About Me**
 
-- 💻 Aspiring Python Developer with a passion for automation, backend systems, and real-world problem solving  
-- 🐧 Linux user (Manjaro + openSUSE)
+- 💻 Aspiring Python Developer with a passion for automation, backend systems, and real-world problem solving
+- 🐧 Linux / open-source enthusiast
 - 🧠 Always learning new things and building projects to improve my skills  
 - ⚙️ Currently focused on Django, web apps, and hardware interaction via ADB & Raspberry Pi
 
