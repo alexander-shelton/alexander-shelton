@@ -28,8 +28,6 @@
 
 [![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-092e20?style=plastic&logo=django&logoColor=092e20)](https://portfolio.alexander-shelton.me/)
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-purple?style=plastic&logo=github)](https://alexander-shelton.github.io/)
-
 ---
 
 ## 📫 How to reach me
